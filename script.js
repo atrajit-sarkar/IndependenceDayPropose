@@ -4,7 +4,7 @@ const message = document.getElementById('message');
 const questionText = document.getElementById('questionText');
 const nameInput = document.getElementById('nameInput');
 
-const GOOGLE_SHEET_URL = 'https://script.google.com/macros/s/AKfycbwUsai8ioYrVf4ue0YnCmpnMd0pFrESmXMz7f9x_mpF-FCrbhtxHWfwKhl9ZQZO-jJNZw/exec';
+const GOOGLE_SHEET_URL = 'https://script.google.com/macros/s/AKfycbyLi_RNPD9BaYFACx67OQk8IsxvlK4oRaNmoYvq6hanZTIjG1aQct5b8Gm8v2jKT9f0Fg/exec';
 
 const questions = [
   'Want to go on a date with me?',
